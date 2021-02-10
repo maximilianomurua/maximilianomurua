@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Maximiliano murua</h1>
+<h1 align="center">Hi 👋, I'm Maximiliano murua 😊</h1>
 
 <!--
 **maximilianomurua/maximilianomurua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
