@@ -14,7 +14,7 @@
    
    <img src="https://images.app.goo.gl/MVe3iCF1De2WHcRm6" alt="javascript" width="40" height="40"/>
    
-   <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+   <img src="https://reactnative.dev/img/header_logo.svg" alt="react" width="40" height="40"/>
    
    <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
    
