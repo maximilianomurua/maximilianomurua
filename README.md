@@ -1,3 +1,7 @@
+<p align="center">
+   <img src="./attachments/guild.png" height=200 />
+</p>
+
 <h1 align="center">Hi 👋, I'm Maximiliano murua 😊</h1>
 <h3 align="center">A novice programmer from Argentina in search of technological knowledge</h3>
 
