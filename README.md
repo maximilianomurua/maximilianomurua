@@ -20,7 +20,7 @@
    
    <img src="https://reactnative.dev/img/header_logo.svg" alt="react" width="40" height="40"/>
    
-   <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+   <img src="http://www.cantabriatic.com/wp-content/uploads/2016/01/images.png" alt="sass" width="40" height="40"/>
    
 </p>
 <!--
