@@ -10,7 +10,7 @@
    -📫 How to reach me: m.javiermurua@gmail.com
 
 <p align="center"> 
-   <img src="https://images.app.goo.gl/tZsGdjkWeZuq5cCM7" alt="css3" width="40" height="40"/> 
+   <img src="https://www.cursoselearning.com/curso/hojas-de-estilo-css3/" alt="css3" width="40" height="40"/> 
    
    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
    
