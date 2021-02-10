@@ -14,7 +14,7 @@
    <img src="http://www.cantabriatic.com/wp-content/uploads/2016/01/images.png" alt="sass" width="40" height="40"/>
    </p>
    <p align="center"> 
-   <img src="https://www.piensasolutions.com/blog/wp-content/uploads/2017/10/bannerprogramacion.jpg" alt="imagen" width="900" height="400"/>
+   <img src="https://axarnet.es/templates/yootheme/cache/lenguajes-programacion-web-2017-axarnet-cce54f67.jpeg" alt="imagen" width="900" height="400"/>
    </p>
 <!--
 **maximilianomurua/maximilianomurua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
