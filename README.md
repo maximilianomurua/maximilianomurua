@@ -1,4 +1,4 @@
-https://axarnet.es/templates/yootheme/cache/lenguajes-programacion-web-2017-axarnet-cce54f67.jpeg<h1 align="center">Hi 👋, I'm Maximiliano murua 😊</h1>
+<h1 align="center">Hi 👋, I'm Maximiliano murua 😊</h1>
 <h3 align="center">A novice programmer from Argentina in search of technological knowledge</h3>
 
    -🌱 I’m currently learning
