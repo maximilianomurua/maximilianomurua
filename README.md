@@ -6,7 +6,7 @@
    -📫 How to reach me: m.javiermurua@gmail.com
 
 <p align="center"> 
-   <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+   <img src="https://images.app.goo.gl/tZsGdjkWeZuq5cCM7" alt="css3" width="40" height="40"/> 
    
    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
    
