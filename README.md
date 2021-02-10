@@ -12,7 +12,7 @@
    
    <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
    
-   <img src="https://images.app.goo.gl/MVe3iCF1De2WHcRm6" alt="javascript" width="40" height="40"/>
+   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="40" height="40"/>
    
    <img src="https://reactnative.dev/img/header_logo.svg" alt="react" width="40" height="40"/>
    
