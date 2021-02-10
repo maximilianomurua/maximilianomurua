@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Maximiliano murua 😊</h1>
+<h3 align="center">A novice programmer from Argentina in search of technological knowledge</h3>
 
+🌱 I’m currently learning
+
+📫 How to reach me: m.javiermurua@gmail.com
 <!--
 **maximilianomurua/maximilianomurua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
