@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Maximiliano murua 😊</h1>
-<h3 align="center">A novice programmer from Argentina in search of technological knowledge</h3>
 
    -🌱 I’m currently learning
 
