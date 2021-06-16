@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Maximiliano murua 😊</h1>
 
-   -🌱 I’m currently learning
+   -🌱 I am currently learning full stack programming in Formar with the help of Digital House.
 
    -📫 How to reach me: m.javiermurua@gmail.com
-   
-   <p align="center"> 
-   <img src="https://miro.medium.com/max/2400/1*vxjAHkrXbGG6gOiPZgjeZA.jpeg" alt="imagen" width="900" height="400"/>
-   </p>
+
 <!--
 **maximilianomurua/maximilianomurua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
