@@ -4,6 +4,11 @@
 
    -📫 How to reach me: m.javiermurua@gmail.com
 
+<p align="center">
+<a href="https://www.linkedin.com/in/maximiliano-murua-289552113" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="manuel-tuero" height="30" width="30" /></a>
+</p>
+
+
 <!--
 **maximilianomurua/maximilianomurua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
