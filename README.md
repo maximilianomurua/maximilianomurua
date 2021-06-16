@@ -8,11 +8,11 @@
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/250px-HTML5_logo_and_wordmark.svg.png" alt="aws" width="40" height="40"/>
 
-<img src="https://rolandocaldas.com/wp-content/uploads/2013/05/css3.png" alt="aws" width="40" height="40"/>
+<img src="https://c0.klipartz.com/pngpicture/188/673/sticker-png-cascading-style-sheets-css3-bootstrap-valid-blue-angle-text-rectangle-logo.png" alt="aws" width="40" height="40"/>
 
-<img src="https://i2.wp.com/www.itseller.cl/wp-content/uploads/2015/05/javascript-logo-png.png" alt="aws" width="40" height="40"/>
+<img src="https://img1.freepng.es/20180716/uq/kisspng-javascript-computer-icons-software-developer-casca-javascript-logo-5b4ca5d5ce4a28.360002591531749845845.jpg" alt="aws" width="40" height="40"/>
 
-<img src="https://elevatecnologia.com/wp-content/uploads/2020/11/%C2%BFComo-es-beneficioso-ReactJS.jpg" alt="aws" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="aws" width="40" height="40"/>
 </p>
 
 
