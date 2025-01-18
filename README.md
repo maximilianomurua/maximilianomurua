@@ -8,7 +8,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/maximiliano-murua-289552113" target="blank">
-   <img align="center" src="[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s)" alt="maximiliano-murua" height="30" width="30" style="background:#1A73E8" />
+   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s)](https://e7.pngegg.com/pngimages/936/303/png-clipart-white-in-log-linkedin-icon-square-icons-logos-emojis-social-media-icons.png" alt="maximiliano-murua" height="30" width="30" style="background:#1A73E8" />
 </a>
 </p>
 
