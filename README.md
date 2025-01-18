@@ -7,7 +7,9 @@
 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/maximiliano-murua-289552113" target="blank" style="background:#1A73E8"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maximiliano-murua" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/maximiliano-murua-289552113" target="blank">
+   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maximiliano-murua" height="30" width="30" style="background:#1A73E8" />
+</a>
 </p>
 
 
